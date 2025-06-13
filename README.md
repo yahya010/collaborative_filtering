@@ -3,7 +3,7 @@
 ## Overview
 This project implements a modular pipeline for building, evaluating, and ensembling recommendation models using PyTorch and geometric approaches. The core logic is contained in the provided Jupyter notebook (`final_combined.ipynb`).
 
-##Colab Link: https://colab.research.google.com/drive/15noB-aEWY_43C2eUd5SBAtembEjoIw78?usp=sharing
+## Colab Link: https://colab.research.google.com/drive/15noB-aEWY_43C2eUd5SBAtembEjoIw78?usp=sharing
 
 ## Prerequisites
 - Python 3.7 or higher
